@@ -1,2 +1,2 @@
 # dataset-for-road-surface-classiffication
-This figure shows a subset of images from the dataset. Due to the large size of the complete dataset (approximately 10 GB), it is available from the corresponding author upon reasonable request.
+This is an example of the dataset used in this paper, which contains compressed packages of various types of images. However, since the dataset used in this article is too large, approaching 10G, if necessary, you can contact the author to obtain it.
